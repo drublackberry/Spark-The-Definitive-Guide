@@ -15,6 +15,7 @@ In this sense, I have also adapted and fixed some examples that would work -or w
 - [Chapter 8](https://github.com/drublackberry/Spark-The-Definitive-Guide/blob/master/notebook/Chapter8.ipynb) is reserved for performing joins on DataFrames.
 - [Chapter 9](https://github.com/drublackberry/Spark-The-Definitive-Guide/blob/master/notebook/Chapter9.ipynb) deals with I/O concepts (loading and storing data). This notebooks shows as well how to load the Spark Session so it can talk to SQL databases.
 - [Chapter 24](https://github.com/drublackberry/Spark-The-Definitive-Guide/blob/master/notebook/Chapter24.ipynb) demos a Machine Learning Pipeline based on Logistic Regression and covers some bugs in the hypeparameter retrieval.
+- [Chapter 25](https://github.com/drublackberry/Spark-The-Definitive-Guide/blob/master/notebook/Chapter25.ipynb) is a showroom for feature extraction using Spark's ML.
 
 Work is still on-going.
 
