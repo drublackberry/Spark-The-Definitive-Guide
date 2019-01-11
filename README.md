@@ -17,6 +17,9 @@ In this sense, I have also adapted and fixed some examples that would work -or w
 - [Chapter 24](https://github.com/drublackberry/Spark-The-Definitive-Guide/blob/master/notebook/Chapter24.ipynb) demos a Machine Learning Pipeline based on Logistic Regression and covers some bugs in the hypeparameter retrieval.
 - [Chapter 25](https://github.com/drublackberry/Spark-The-Definitive-Guide/blob/master/notebook/Chapter25.ipynb) is a showroom for feature extraction using Spark's ML.
 - [Chapter 26](https://github.com/drublackberry/Spark-The-Definitive-Guide/blob/master/notebook/Chapter26.ipynb) shows how to use the most common classifiers. In all honesty, the difficulty in this chapter lies in understanding the math behind the classifiers and possiblt navigating the APIs to configure them. Note that some evaluation metrics in the current version of spark are only available for RDDs (mlllib).
+- [Chapter 27](https://github.com/drublackberry/Spark-The-Definitive-Guide/blob/master/notebook/Chapter27.ipynb) demoes classical regression algorithms.
+- [This ML pipeline on a Kaggle Housing dataset](https://github.com/drublackberry/Spark-The-Definitive-Guide/blob/master/notebook/MLpipelineKaggleHousing.ipynb) ties it all together and does feature extraction, cross-validation, test dataset evaluation over the performance of various regression algorithms using an example dataset from Kaggle (housing price prediction).
+- [Chapter 29](https://github.com/drublackberry/Spark-The-Definitive-Guide/blob/master/notebook/Chapter29.ipynb) is a simple showroom of basic clustering algorithms (aka unsupervised learning).
 
 Work is still on-going.
 
