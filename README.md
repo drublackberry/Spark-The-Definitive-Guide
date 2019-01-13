@@ -20,6 +20,8 @@ In this sense, I have also adapted and fixed some examples that would work -or w
 - [Chapter 27](https://github.com/drublackberry/Spark-The-Definitive-Guide/blob/master/notebook/Chapter27.ipynb) demoes classical regression algorithms.
 - [This ML pipeline on a Kaggle Housing dataset](https://github.com/drublackberry/Spark-The-Definitive-Guide/blob/master/notebook/MLpipelineKaggleHousing.ipynb) ties it all together and does feature extraction, cross-validation, test dataset evaluation over the performance of various regression algorithms using an example dataset from Kaggle (housing price prediction).
 - [Chapter 29](https://github.com/drublackberry/Spark-The-Definitive-Guide/blob/master/notebook/Chapter29.ipynb) is a simple showroom of basic clustering algorithms (aka unsupervised learning).
+- [Chapter 29](https://github.com/drublackberry/Spark-The-Definitive-Guide/blob/master/notebook/Chapter30.ipynb) shows how to launch GraphFrames on a notebook and to run queries, motif finding and algorithms on the graph itself.
+
 
 Work is still on-going.
 
